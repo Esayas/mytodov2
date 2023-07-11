@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mytodov2/static/css/main.6d7d0a75.css",
+    "main.js": "/mytodov2/static/js/main.e83f10c4.js",
+    "index.html": "/mytodov2/index.html",
+    "main.6d7d0a75.css.map": "/mytodov2/static/css/main.6d7d0a75.css.map",
+    "main.e83f10c4.js.map": "/mytodov2/static/js/main.e83f10c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d7d0a75.css",
+    "static/js/main.e83f10c4.js"
+  ]
+}
